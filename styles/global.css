@@ -1,0 +1,21 @@
+html, body {
+  width: 100% !important;
+}
+
+.nav-background {
+  height: 70px;
+  width: 100vw;
+  background-color: #CFB53B;
+}
+
+#navbar * {
+  transition: 0.3s;
+}
+
+.nav-resize {
+  transition: 0.3s;
+}
+
+.w3-oldgold {
+  background-color: #CFB53B !important;
+}
